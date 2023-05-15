@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/amina_assaid" target="blank"><img src="https://img.shields.io/twitter/follow/amina_assaid?logo=twitter&style=for-the-badge" alt="amina_assaid" /></a> </p>
 
-- 🌱 I’m currently learning **php mysql**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **HTML5 , CSS , Javascript , php**
 
