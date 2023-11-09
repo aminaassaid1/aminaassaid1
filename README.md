@@ -1,5 +1,5 @@
 # <h1 align="center">Hi 👋, I'm Assaid Amina</h1>
-<h3 align="center">full stack web developer 👩‍💻</h3>
+<h3 align="center">Web & Mobile developer 👩‍💻</h3>
 <img align="left" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminaassaid1&label=Profile%20views&color=0e75b6&style=flat" alt="aminaassaid1" /> </p>
