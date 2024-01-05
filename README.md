@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **HTML5 , CSS , Javascript , php**
+- 💬 Ask me about **HTML5 , CSS , Javascript , php , laravel **
 
 - 📫 How to reach me **assaid.amina.solicode@gmail.com**
 
